@@ -1,0 +1,8 @@
+# Composer (opsional: hapus baris ini jika vendor/ ingin ikut diunggah)
+# vendor/
+
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.log
